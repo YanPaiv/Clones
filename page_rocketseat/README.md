@@ -9,8 +9,8 @@
 <h2>technologies used<h2>
 
 <ul>
-   <li>Next js<li>
-   <li>Type Script<li>
-   <li>Node Js<li>
-   <li>Chakra ui<li>
+   <li>Next js</li>
+   <li>Type Script</li>
+   <li>Node Js</li>
+   <li>Chakra ui</li>
 </ul>
